@@ -4,7 +4,7 @@
 # Introduction
 This project contains a Flask application that uses OpenAI's GPT-3 language model to respond to user queries received through Twilio's API on Whatsapp.
 
-[Image](https://github.com/susovanD/ChatgptWhatsapp/blob/main/ezgif.com-resize.gif)
+![Image](https://github.com/susovanD/ChatgptWhatsapp/blob/main/ezgif.com-resize.gif)
 
 
 ## Prerequisites
