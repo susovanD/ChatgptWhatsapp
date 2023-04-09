@@ -1,1 +1,1 @@
-key='add_your_api'
+key='add_your_openai_secret_key'
