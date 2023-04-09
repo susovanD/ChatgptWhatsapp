@@ -1,7 +1,10 @@
 # Introduction
 This project contains a Flask application that uses OpenAI's GPT-3 language model to respond to user queries received through Twilio's API on Whatsapp.
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-[Image]()
+[Image](https://github.com/susovanD/ChatgptWhatsapp/blob/main/ezgif.com-resize.gif)
 
 
 ## Prerequisites
@@ -28,3 +31,9 @@ Usage
 
 ## Usage
 Once the setup is complete, the Flask application will be running and ngrok will be forwarding incoming messages to the application. The application will respond to user queries using OpenAI's GPT-3 language model. To modify the language model, refer to the OpenAI API documentation.
+
+## License
+
+[GNU](https://choosealicense.com/licenses/gpl-3.0/)
+
+📫 How to reach me: [deysusovan93@gmail.com](mailto:deysusovan93@gmail.com)
